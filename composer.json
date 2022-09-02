@@ -1,0 +1,11 @@
+{
+    "name": "tatiana/example",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "Tatiana Antonova",
+            "email": "to.antonova@mail.ru"
+        }
+    ],
+    "require": {}
+}

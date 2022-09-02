@@ -7,5 +7,7 @@
             "email": "to.antonova@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.25"
+    }
 }
